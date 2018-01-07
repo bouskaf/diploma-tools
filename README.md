@@ -10,10 +10,9 @@ Key | Meaning
 `D` | next picture
 `W` | increase bounding box size
 `A` | decrease bounding box size
-`SPACEBAR` | add bounding box 
 `ESC` | exit 
 `P` | resete bounding boxes on current image 
-`1 - 4` | set bounding box class
+`1 - 4` | add bounding box with given class
 `R` | toggle on / off bounding boxes 
 
 ## Divide images
