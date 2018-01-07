@@ -10,10 +10,10 @@ Key | Meaning
 `D` | next picture
 `W` | increase bounding box size
 `A` | decrease bounding box size
-`ESC` | exit 
-`P` | resete bounding boxes on current image 
 `1 - 4` | add bounding box with given class
-`R` | toggle on / off bounding boxes 
+`R` | show or hide bounding boxes
+`P` | delete all bounding boxes on the current image 
+`ESC` | exit 
 
 ## Divide images
 Script for dividing original very high resolution images to smaller parts
