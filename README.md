@@ -16,3 +16,5 @@ Key | Meaning
 `1 - 4` | set bounding box class
 `R` | toggle on / off bounding boxes 
 
+## Divide images
+Script for dividing original very high resolution images to smaller parts
